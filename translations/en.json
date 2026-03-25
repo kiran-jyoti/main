@@ -1,0 +1,115 @@
+{
+  "heroName": "Kiran Jyoti",
+  "heroTitle": "Data Analyst",
+  "heroEducation": "M.S. Data Science • B.S. Computer Science",
+  "heroTagline": "Building efficient, scalable solutions that drive measurable business impact. Passionate about automation, data-driven insights, and continuous learning.",
+  "journeyTitle": "Experience",
+  "journey": [
+    {
+      "date": "July 2025 -  Present",
+      "title": "Data Analyst",
+      "Company": "Center for Ledership Development"
+    },
+    {
+      "date": "May 2024 - July2025",
+      "title": "EDI Analyst",
+      "Company": "Availity LLC"
+    },
+    {
+      "date": "Oct 2022 - Feb 2024",
+      "title": "Technology Consultant",
+      "Company": "Infosys Ltd/ Eli Lilly and Company"
+    },
+    {
+      "date": "July 2020 - Sep 2022",
+      "title": "Functional Consultant",
+      "Company": "Infosys Ltd/ Eli Lilly and Company"
+    }
+  ],
+  "impactTitle": "Certifications & Key Achievements",
+  "impact": [
+    " • Google Data Analytics Professional Certificate",
+    " • Certified SAP ABAP Professional Consultant",
+    " • Global Agile Developer Certification",
+    " • Salesforce Admin – In progress"
+  ],
+  "educationTitle": "Education",
+  "education": [
+    {
+      "school": "Indiana University Bloomington",
+      "degree": "M.S. Data Science",
+      "status": "May 2024"
+    },
+    {
+      "school": "Indiana University - Purdue University Indianapolis",
+      "degree": "B.S. Computer Science",
+      "status": "Graduated"
+    }
+  ],
+  "skillsTitle": "Technical Skills",
+  "skills": {
+    "advanced": [
+        "Salesforce",
+      "R",
+      "Python",
+      "AWS",
+      "Google Cloud Platform",
+      "Tableau",
+      "Power BI",
+      "SAP ERP/Fiori",
+      "Service Now",
+      "SQL",
+      "HTML5",
+      "CSS",
+      "JavaScript",
+      "Visio",
+      "MS Office",
+      "Django",
+            "Flask",
+      "Django",
+      "SQL (MySQL, PostgreSQL, MS SQL)",
+      "Git",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Data Analytics",
+      "Data Visualization"
+    ],
+    "proficient": [
+      "Data Analysis",
+
+      "REST APIs",
+      "Redis",
+      "C#",
+      "OOP",
+      "CI/CD",
+      "Agile",
+      "Nginx",
+      "jQuery",
+      "ETL"
+    ],
+    "learning": [
+      "React",
+      "Next.js",
+      "Node.js",
+      "Express.js",
+      "Machine Learning",
+      "PyTorch",
+      "Scikit-Learn",
+      "TensorFlow",
+      "Apache Airflow",
+      "Azure (AZ-204)"
+    ]
+  },
+  "learningTitle": "Learning Approach",
+  "learning": "I believe in <strong>Reading, Comparing, and Observing</strong>. I dive deep into documentation, connect new concepts with existing knowledge like solving a puzzle, and enhance my understanding by watching how experienced developers use tools and technologies. This multi-faceted approach helps me not just learn syntax, but understand the 'why' behind technical decisions.",
+  "goalsTitle": "Current Focus",
+  "goalsIntro": "As a Software Engineer pursuing a Master's in Data Analytics, I'm focused on the intersection of software engineering and data science:",
+  "goals": [
+    "Mastering data visualization and analytics tools (Tableau, BigQuery, R)",
+    "Deepening machine learning expertise with PyTorch and TensorFlow",
+    "Building full-stack applications with React and Next.js",
+    "Preparing for Azure Developer Associate (AZ-204) certification",
+    "Contributing to open-source projects in data engineering"
+  ]
+}
